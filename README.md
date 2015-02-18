@@ -1,6 +1,6 @@
 # ImStore [![Build Status](https://travis-ci.org/virtualc/imstore.svg)](https://travis-ci.org/virtualc/imstore)
 
-Immutable in-memory store for javascript
+[Immutable](https://github.com/facebook/immutable-js) javascript in-memory store
 
 ## Why?
 

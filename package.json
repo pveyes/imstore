@@ -1,7 +1,7 @@
 {
   "name": "imstore",
   "version": "0.1.0",
-  "description": "Immutable in-memory store for javascript",
+  "description": "Immutable javascript in-memory store, can also be used as cache",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -28,3 +28,4 @@
     "immutable": "^3.6.2"
   }
 }
+
