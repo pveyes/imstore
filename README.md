@@ -23,7 +23,7 @@ getValue.c = 2
 
 console.log(store.get(key));
 // {a: ['b'], cd: [], c: 2}
-// WHOOPS we haven't even update!
+// WHOOPS storage updated itself!
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ Install via npm
 $ npm install imstore
 ```
 
-API is simple and straigtforward:
+API is simple and straightforward:
 
 ```js
 var Store = require('imstore');
