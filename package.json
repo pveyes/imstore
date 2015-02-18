@@ -1,0 +1,30 @@
+{
+  "name": "imstore",
+  "version": "0.1.0",
+  "description": "Immutable in-memory store for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:virtualc/imstore"
+  },
+  "keywords": [
+    "immutable",
+    "in-memory",
+    "store"
+  ],
+  "author": "Fatih Kalifa <fatih@pveyes.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualc/imstore/issues"
+  },
+  "homepage": "https://github.com/virtualc/imstore",
+  "devDependencies": {
+    "jest-cli": "^0.3.0"
+  },
+  "dependencies": {
+    "immutable": "^3.6.2"
+  }
+}
