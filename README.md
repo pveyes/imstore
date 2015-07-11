@@ -1,4 +1,4 @@
-# ImStore [![Build Status](https://travis-ci.org/virtualc/imstore.svg)](https://travis-ci.org/virtualc/imstore)
+# ImStore [![Build Status](https://travis-ci.org/pveyes/imstore.svg?branch=master)](https://travis-ci.org/pveyes/imstore)
 
 [Immutable](https://github.com/facebook/immutable-js) javascript in-memory store
 
@@ -37,8 +37,8 @@ $ npm install imstore
 API is simple and straightforward:
 
 ```js
-var Store = require('imstore');
-var store = new Store();
+var imstore = require('imstore');
+var store = imstore();
 
 // saving value
 store.set(key, value);
