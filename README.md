@@ -1,5 +1,7 @@
 # ImStore [![Build Status](https://travis-ci.org/pveyes/imstore.svg?branch=master)](https://travis-ci.org/pveyes/imstore)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pveyes/imstore.svg)](https://greenkeeper.io/)
+
 [Immutable](https://github.com/facebook/immutable-js) javascript in-memory store
 
 ## Why?
